@@ -1,1 +1,1 @@
-Toy problem. Takes an integer, if it's divisible by 3, it prints "fiz", if it's divisible by 5, it prints "buzz", otherwise, the number itself is printed
+Toy problem. Takes an integer, if it's divisible by 3, it prints "fizz", if it's divisible by 5, it prints "buzz", otherwise, the number itself is printed
